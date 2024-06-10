@@ -1,6 +1,6 @@
 # Generador-Password
 
-Para este proyecto utilica HTML para crear los componentes para poder generar una Password(Contraseña) 
+Para este proyecto utilice HTML para crear los componentes para poder generar una Password(Contraseña) 
 con las opciones:
 Copiar Password,
 Tamaño de Password,
